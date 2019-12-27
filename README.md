@@ -8,7 +8,7 @@ Run the [confluence_patching_status](https://github.com/geomidas/debian_patch/bl
 ## Or publish patching status in a web page
 Run the [patching_status_page](https://github.com/geomidas/debian_patch/blob/master/ansible/patching_status_pages.yml) playbook 
 
-_This (re)creates a docker container with a webserver written in go and serves all the patching status info for all your host groups._
+_This (re)creates a container with a webserver written in go and serves all the patching status info for all your host groups._
 
 Visit the patching status page:
 
