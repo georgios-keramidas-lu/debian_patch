@@ -3,7 +3,7 @@
 Run the [patch](https://github.com/geomidas/macbook/blob/master/ansible/patch.yml) ansible playbook
 
 # To gather patching status info in Confluence
-Run the [confluence_patching_status](https://github.com/geomidas/macbook/blob/master/ansible/cunfluence_sum_available_patches.yml) playbook
+Run the [confluence_patching_status](https://github.com/geomidas/macbook/blob/master/ansible/cunfluence_patching_status.yml) playbook
 
 Alternatively:
 # To (re)create a web page to display patching status info
