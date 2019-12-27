@@ -9,6 +9,8 @@ Alternatively,
 ## To (re)create a web page to display patching status info
 Run the [patching_status_page](https://github.com/geomidas/macbook/blob/master/ansible/patching_status_pages.yml) playbook 
 
+_This playbook (re)creates a docker container with a webserver written in go and serves all the patching status info for all your host groups._
+
 Visit the patching status page:
 
 ![patching_status_page](https://github.com/geomidas/debian_patch/blob/master/patching_stat.png?raw=true)
